@@ -16,7 +16,7 @@ The idea is: on the screen, there is a window with the quiz, always placed in th
 Same as macOS instructions but you know how to install Tesseract.
 
 ### Windows
-Windows support is currently not provided, but the software is easily portable and I gladly accept pull requests!
+Windows support requires some changes but installation follows the same steps. The software is easily portable and I gladly accept pull requests!
 
 ## Disclaimer
 Developed only for educational purpose (and fun!).
